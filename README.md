@@ -1,2 +1,2 @@
 # castillobg.github.io
-Personal blog.
+Personal blog about programming and everything else.
