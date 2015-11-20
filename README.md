@@ -1,2 +1,4 @@
 # castillobg.github.io
-Personal blog about programming and everything else.
+
+Repository for my blog [castillobg.github.io](https://castillobg.github.io).
+
