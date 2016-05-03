@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Socket.io v1, File Transfer, and You"
-date:   2016-03-30 21:32:00 -0500
+date:   2015-11-09 21:32:00 -0500
 comments: true
 categories: programming tutorial golang
 ---
