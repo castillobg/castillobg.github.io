@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Software Developer/ Systems Engineer based in Medellin, Colombia.
+I'm David Castillo, a Software Developer/ Systems Engineer based in Medellin, Colombia.
 
 I [write code](https://github.com/castillobg), and run the
 [Medellin DevOps Meetup](https://www.meetup.com/medellin-devops/). I like to
