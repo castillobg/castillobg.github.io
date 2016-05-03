@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hybrid Apps: Thanks, but no, Thanks"
-date:   2015-10-19 21:32:00 -0500
+title: "Hybrid Apps: Thanks, but no, Thanks"
+date: 2015-10-19 21:32:00 -0500
 comments: true
 categories: programming rant
 ---

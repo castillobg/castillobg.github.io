@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Go Shot: Range Captured Vars"
-date:   2016-03-30 21:32:00 -0500
+title: "Go Shot: Range Captured Vars"
+date: 2016-03-30 21:32:00 -0500
 comments: true
 categories: programming tutorial golang
 ---
