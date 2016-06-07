@@ -7,12 +7,11 @@
 
 # Site settings
 title: castillobg
-email: your-email@domain.com
 description: >
   I'm David Castillo, a Software Developer/ Systems Engineer based in Medellin,
   Colombia. This is my personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://castillobg.github.io" # the base hostname & protocol for your site
+url: "http://blog.castillobg.co" # the base hostname & protocol for your site
 twitter_username: castillobgr
 github_username:  castillobg
 
