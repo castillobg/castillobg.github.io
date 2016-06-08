@@ -3,7 +3,7 @@ layout: post
 title: "Hybrid Apps: Thanks, but no, Thanks"
 date: 2015-10-19 21:32:00 -0500
 comments: true
-categories: programming rant opinion
+categories: opinion rant
 ---
 In the past months I had the chance of working on a hybrid mobile app with Ionic. At first, it was
 great: I had never worked on a mobile app, so I was excited, and the idea of a multiplatform app is

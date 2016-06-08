@@ -3,7 +3,7 @@ layout: post
 title: "Who's There? A Listener Pattern For Gems Configuration"
 date: 2015-08-24 21:32:00 -0500
 comments: true
-categories: tutorial programming ruby
+categories: programming tutorial ruby
 ---
 Recently, my team and I ran into a nasty configuration problem while integrating a Ruby gem
 (AwesomeGem, from now on) we had developed. To expose the configuration to the projects using
